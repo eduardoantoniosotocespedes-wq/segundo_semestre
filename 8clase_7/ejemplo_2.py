@@ -3,4 +3,6 @@ n2 = int(input("Ingrese el segundo numero: "))
 def suma(n1,n2):
     res = n1 + n2
     print(res)    
-suma(10,10)    
+suma(n1,n2)    
+#importante poner los los parametros,argumentos para funciones con variables obligatorias 
+#o bloke de codigo no reutilizable
