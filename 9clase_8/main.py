@@ -8,4 +8,4 @@ from logica import mayor
 #print(area_t(0,0))
 #print(pares(0))
 #print(valores(0))
-print(mayor(0,0,0))
+#print(mayor(0,0,0))

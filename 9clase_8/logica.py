@@ -7,4 +7,4 @@ def mayor(a,b,c):
     elif b > a and b > c:
         print(f"El numero mayor es: {b}")
     else:
-        print(f"El numero mayor es: {c}") 
+        print(f"El numero mayor es: {c}")         
