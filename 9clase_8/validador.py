@@ -1,6 +1,6 @@
 def pares(a):
     print("===VALIDAR DE NUMERO PARES ")
-    a=float(input("Ingrese un numero")) 
+    a = float(input("Ingrese un numero")) 
     if a % 2 == 0:
         return True
     else:
@@ -9,7 +9,7 @@ def pares(a):
 def valores(a):
     print("===VALIDAR DE NUMERO POSITIVOS ")
     a=float(input("Ingrese un numero")) 
-    if a >0:
+    if a > 0:
         return True
     else:
         return False
