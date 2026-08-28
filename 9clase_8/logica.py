@@ -1,4 +1,5 @@
 def mayor(a,b,c):
+    print("===MOSTRAMOS EN NUMERO MAYOR")
     a = float(input("ingrese su primer numero: "))
     b = float(input("ingrese su segundo numero: "))
     c = float(input("ingrese su tercer numero: "))
